@@ -1,2 +1,2 @@
 # Algorithm
-All My Algorithm Codes Is Here.
+All My Algorithm Codes Are Here.
